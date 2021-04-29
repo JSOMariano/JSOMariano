@@ -1,6 +1,7 @@
 Hi 😄
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futirstanjo&theme=dracula) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futirstanjo&count_private=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futirstanjo&count_private=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futirstanjo&theme=dracula) 
 
 <!--
 **futirstanjo/futirstanjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
