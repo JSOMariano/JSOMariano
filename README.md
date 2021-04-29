@@ -3,7 +3,7 @@ Hi, welcome to my profile !!!
 About me:
 - 🔭 I'm currently working on learning more
 - 🌱 I’m currently learning Node, React and React Native
-- ⚡  already tried to use react native components in react
+- ⚡  Fun fact: Already tried to use react native components in react
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futirstanjo&count_private=true&theme=dracula&show_icons=true&title_color=green)
 
