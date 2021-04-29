@@ -1,5 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futirstanjo) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futirstanjo&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futirstanjo&hide=contribs,prs) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futirstanjo&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futirstanjo&theme=radical) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futirstanjo&count_private=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futirstanjo&show_icons=true&theme=radical)
 
 <!--
 **futirstanjo/futirstanjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
