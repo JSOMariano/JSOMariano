@@ -6,9 +6,6 @@ About me:
 - ⚡  Fun fact: Already tried to use react native components in react
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futirstanjo&count_private=true&theme=dracula&show_icons=true&title_color=green&locale=pt-br)
-
----------------------------------------------------------------------- :star: Top Languages :star: ----------------------------------------------------------------
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=futirstanjo&theme=dracula&title_color=green&locale=pt-br)
 <!--
 **futirstanjo/futirstanjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
