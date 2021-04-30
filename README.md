@@ -7,7 +7,7 @@ About me:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futirstanjo&count_private=true&theme=dracula&show_icons=true&title_color=green)
 
--------------------------------------------------------- ⭐ *Top Languages* ⭐ --------------------------------------------------------
+---------------------------------------------------------------------- ⭐ *Top Languages* ⭐ -----------------------------------------------------------------------
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=futirstanjo&langs_count=8&theme=dracula&title_color=green)
 <!--
