@@ -1,5 +1,3 @@
-Hi, welcome to my profile !!!
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futirstanjo&count_private=true&theme=dracula&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=futirstanjo&theme=dracula)
 
